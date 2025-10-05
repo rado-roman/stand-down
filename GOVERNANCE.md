@@ -1,6 +1,6 @@
 # Governance
 
-**Maintainers:** @your-handle (Copenhagen) + one backup.
+**Maintainers:** @rado-roman (Copenhagen).
 
 **Decision model:** *Lazy consensus.* If no substantive objections within **72 hours**, a maintainer may merge. Trivial fixes may be merged immediately.
 
