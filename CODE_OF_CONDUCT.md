@@ -10,7 +10,7 @@ We’re committed to a friendly, safe, and welcoming space for everyone. By join
 **Unacceptable behavior** includes harassment, discrimination, sustained disruption, and any unwelcome attention.
 
 **Reporting & enforcement**
-- Tell the host on the night or email **<contact@email>**.
+- Tell the host on the night or email **<rado@iterate.sk>**.
 - Hosts may issue warnings or ask someone to leave to protect the vibe.
 - Repeated or serious violations can lead to a chapter ban.
 
